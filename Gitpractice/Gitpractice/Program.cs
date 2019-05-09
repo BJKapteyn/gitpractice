@@ -11,6 +11,8 @@ namespace Gitpractice
         static void Main(string[] args)
         {
             Console.WriteLine("Whaaaaat");
+
+            Console.WriteLine("CONFLICT");
         }
     }
 }
